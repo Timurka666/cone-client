@@ -1,0 +1,14 @@
+.inputs-wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.input-name {
+  font-size: large;
+}
+
+input.input {
+  height: 1.5rem;
+  font-size: large;
+  border-radius: 10px;
+}
