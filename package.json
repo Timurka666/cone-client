@@ -1,6 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "homepage": "https://timurka666.github.io/cone-client/",
   "private": true,
   "dependencies": {
     "@react-three/fiber": "^8.14.1",
